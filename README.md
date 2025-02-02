@@ -11,57 +11,57 @@ This platform is perfect for **corporate events, concerts, weddings, workshops, 
 ##  Features  
 
 ###  **User Functionalities**  
-✅ **User Authentication** – Register/Login securely to access events.  
-✅ **Browse Events** – View upcoming and past events with detailed information.  
-✅ **Event Booking** – Reserve spots for events with a simple booking system.  
-✅ **Profile Management** – Update user details and track event bookings.  
-✅ **Query Submission** – Contact admins with event-related questions.  
+ **User Authentication** – Register/Login securely to access events.  
+ **Browse Events** – View upcoming and past events with detailed information.  
+ **Event Booking** – Reserve spots for events with a simple booking system.  
+ **Profile Management** – Update user details and track event bookings.  
+ **Query Submission** – Contact admins with event-related questions.  
 
 ###  **Admin Functionalities**  
-🛠️ **Event Management** – Add, delete, and modify events dynamically.  
-📅 **Booking Management** – View and manage user registrations.  
-📨 **User Queries** – Respond to user questions and resolve issues.  
+ **Event Management** – Add, delete, and modify events dynamically.  
+ **Booking Management** – View and manage user registrations.  
+ **User Queries** – Respond to user questions and resolve issues.  
 
 ---
 
 ##  Screenshots  
 
-### 1️⃣ **User Login Page**  
+### 1 **User Login Page**  
 ![Login Page](event_booking/img/login.png)
 
-### 2️⃣ **User Registration Page**  
+### 2 **User Registration Page**  
 ![Register Page](event_booking/img/register.png)
 
-### 3️⃣ **Index (Home) Page**  
+### 3 **Index (Home) Page**  
 ![Index Page](event_booking/img/index.png)
 
-### 4️⃣ **View More Event Details**  
+### 4 **View More Event Details**  
 ![View More](event_booking/img/viewmore.png)
 
-### 5️⃣ **Event Booking Page**  
+### 5 **Event Booking Page**  
 ![Book Ticket](event_booking/img/bookticket.png)
 
-### 6️⃣ **My Bookings Page**  
+### 6 **My Bookings Page**  
 ![My Bookings](event_booking/img/mybookings.png)
 
-### 7️⃣ **Admin: Add Event Page**  
+### 7 **Admin: Add Event Page**  
 ![Add Event](event_booking/img/add.png)
 
-### 8️⃣ **Admin: Delete Event Page**  
+### 8 **Admin: Delete Event Page**  
 ![Delete Event](event_booking/img/delete.png)
 
-### 9️⃣ **Admin: Modify Event Page**  
+### 9 **Admin: Modify Event Page**  
 ![Modify Event](event_booking/img/modify.png)
 
-### 🔟 **Admin: Event Listings**  
+### 10 **Admin: Event Listings**  
 ![Event Listings](event_booking/img/eventlist.png)
 
-### 1️⃣1️⃣ **Admin: User Queries Management**  
+### 10 **Admin: User Queries Management**  
 ![Event Queries](event_booking/img/query.png)
 
 ---
 
-## 💡 Future Enhancements  
+##  Future Enhancements  
 
 🔹 **Payment Integration** – Add online payments for event bookings.  
 🔹 **Multi-role Access** – Expand access levels (e.g., event organizers).  
@@ -70,12 +70,12 @@ This platform is perfect for **corporate events, concerts, weddings, workshops, 
 
 ---
 
-## 📜 License  
+##  License  
 This project is licensed under the [MIT License](LICENSE).  
 
 ---
 
-### 📧 Contact  
+###  Contact  
 For inquiries or support, reach out to **tharunkm089@gmail.com**  
 
 ---
