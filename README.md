@@ -26,13 +26,6 @@ This platform is perfect for **corporate events, concerts, weddings, workshops, 
 
 ##  Screenshots  
 
-
-### 1️⃣ **User Login Page**  
-![Login Page](img/login.png)
-
-### 2️⃣ **User Registration Page**  
-![Register Page](img/register.png)
-
 ### 1️⃣ **User Login Page**  
 ![Login Page](event_booking/img/login.png)
 
