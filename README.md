@@ -33,32 +33,38 @@ This platform is perfect for **corporate events, concerts, weddings, workshops, 
 ### 2️⃣ **User Registration Page**  
 ![Register Page](img/register.jpg)
 
+### 1️⃣ **User Login Page**  
+![Login Page](event_booking/img/login.jpg)
+
+### 2️⃣ **User Registration Page**  
+![Register Page](event_booking/img/register.jpg)
+
 ### 3️⃣ **Index (Home) Page**  
-![Index Page](img/index.jpg)
+![Index Page](event_booking/img/index.jpg)
 
 ### 4️⃣ **View More Event Details**  
-![View More](img/viewmore.jpg)
+![View More](event_booking/img/viewmore.jpg)
 
 ### 5️⃣ **Event Booking Page**  
-![Book Ticket](img/bookticket.jpg)
+![Book Ticket](event_booking/img/bookticket.jpg)
 
 ### 6️⃣ **My Bookings Page**  
-![My Bookings](img/mybookings.jpg)
+![My Bookings](event_booking/img/mybookings.jpg)
 
 ### 7️⃣ **Admin: Add Event Page**  
-![Add Event](img/add.jpg)
+![Add Event](event_booking/img/add.jpg)
 
 ### 8️⃣ **Admin: Delete Event Page**  
-![Delete Event](img/delete.jpg)
+![Delete Event](event_booking/img/delete.jpg)
 
 ### 9️⃣ **Admin: Modify Event Page**  
-![Modify Event](img/modify.jpg)
+![Modify Event](event_booking/img/modify.jpg)
 
 ### 🔟 **Admin: Event Listings**  
-![Event Listings](img/eventlist.jpg)
+![Event Listings](event_booking/img/eventlist.jpg)
 
 ### 1️⃣1️⃣ **Admin: User Queries Management**  
-![Event Queries](img/eventquery.jpg)
+![Event Queries](event_booking/img/eventquery.jpg)
 
 ---
 
