@@ -57,7 +57,7 @@ This platform is perfect for **corporate events, concerts, weddings, workshops, 
 ![Event Listings](event_booking/img/eventlist.png)
 
 ### 1️⃣1️⃣ **Admin: User Queries Management**  
-![Event Queries](event_booking/img/eventquery.png)
+![Event Queries](event_booking/img/query.png)
 
 ---
 
