@@ -28,43 +28,43 @@ This platform is perfect for **corporate events, concerts, weddings, workshops, 
 
 
 ### 1️⃣ **User Login Page**  
-![Login Page](img/login.jpg)
+![Login Page](img/login.png)
 
 ### 2️⃣ **User Registration Page**  
-![Register Page](img/register.jpg)
+![Register Page](img/register.png)
 
 ### 1️⃣ **User Login Page**  
-![Login Page](event_booking/img/login.jpg)
+![Login Page](event_booking/img/login.png)
 
 ### 2️⃣ **User Registration Page**  
-![Register Page](event_booking/img/register.jpg)
+![Register Page](event_booking/img/register.png)
 
 ### 3️⃣ **Index (Home) Page**  
-![Index Page](event_booking/img/index.jpg)
+![Index Page](event_booking/img/index.png)
 
 ### 4️⃣ **View More Event Details**  
-![View More](event_booking/img/viewmore.jpg)
+![View More](event_booking/img/viewmore.png)
 
 ### 5️⃣ **Event Booking Page**  
-![Book Ticket](event_booking/img/bookticket.jpg)
+![Book Ticket](event_booking/img/bookticket.png)
 
 ### 6️⃣ **My Bookings Page**  
-![My Bookings](event_booking/img/mybookings.jpg)
+![My Bookings](event_booking/img/mybookings.png)
 
 ### 7️⃣ **Admin: Add Event Page**  
-![Add Event](event_booking/img/add.jpg)
+![Add Event](event_booking/img/add.png)
 
 ### 8️⃣ **Admin: Delete Event Page**  
-![Delete Event](event_booking/img/delete.jpg)
+![Delete Event](event_booking/img/delete.png)
 
 ### 9️⃣ **Admin: Modify Event Page**  
-![Modify Event](event_booking/img/modify.jpg)
+![Modify Event](event_booking/img/modify.png)
 
 ### 🔟 **Admin: Event Listings**  
-![Event Listings](event_booking/img/eventlist.jpg)
+![Event Listings](event_booking/img/eventlist.png)
 
 ### 1️⃣1️⃣ **Admin: User Queries Management**  
-![Event Queries](event_booking/img/eventquery.jpg)
+![Event Queries](event_booking/img/eventquery.png)
 
 ---
 
